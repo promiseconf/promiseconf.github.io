@@ -1,0 +1,82 @@
+<!--#include virtual="inc/head1.html"-->
+<title>Program Committee | PROMISE 2010 </title>
+<!--#include virtual="inc/head2.html"-->
+
+
+
+<h2>Steering Committee</h2>
+
+<ul>
+		     <li>
+			 	Tim Menzies - West Virginia University, USA 
+			 <b>(CHAIR)</b> 
+			 <p>
+	    <li> Ayse Bener - Bogazici University, Turkey
+		<li>
+		Gunes Koru - University of Maryland, Baltimore County, USA
+				    <li> Tom Ostrand - AT&T, USA
+					    </ul>
+
+<h2>Program Committee</h2>
+<ul>
+		     <li> Gunes Koru - University of Maryland, Baltimore County, USA
+			 <b>(CHAIR)</b> 
+			 <p>
+			 <li> Lefteris Angelis, Aristotle University of Thessaloniki, Greece
+			 <li> Erik Arisholm, Simula Research Laboratory, Norway
+			 	<li> Vic Basili, University of Maryland, USA
+			 <li> Ayse Bener, Bogazici University, Turkey
+			 	<li>Barry Boehm , University of Southern California, USA
+			 	<li>Gary Boetticher, University of Houston Clear Lake, USA
+			 	<li>Lionel Briand, Simula Research Laboratory, Norway
+			 	<li>Bojan Cukic, West Virginia University, USA
+			 <li> Onur Demirors, Middle East Technical University, Turkey
+			 <li> Zhang Du, Sacramento State University, USA
+			 <li> Khaled El Emam, University of Ottawa & CHEO, Canada
+			 <li> Norman Fenton, Queen Mary University of London, UK 
+			 <li> Vahid Garousi, University of Calgary, Canada
+			 <li> Jo Hannay, Simula Research Laboratory, Norway
+			 <li> Mark Harman, King's College London, UK
+			 <li> Jane Hayes, University of Kentucky, USA
+			 <li> LiGuo Huang, Southern Methodist University, USA
+			 <li> Ross Jeffery - NICTA, Australia
+			 <li> Magne Jørgensen, Simula Research Laboratory, Norway
+			 <li> Jacky Keung - NICTA, Australia
+			 <li> Taghi Khoshgoftaar, Florida Atlantic University, USA
+			 <li> Hongfang Liu, Georgetown University, USA
+			 <li> Jonathan I. Maletic, Kent State University, USA
+			 <li> Emilia Mendes, University of Auckland, New Zealand
+			 <li> Tim Menzies, West Virginia University, USA
+			 <li> Sandro Morasca, Universita degli Studi dell'Insubria, Italy
+			 <li> Maurizio Morisio, Politecnico di Torino, Italy
+			 <li> Brendan Murphy, Microsoft Research Centre, UK
+			 <li> Thomas Ostrand, AT&T Labs, Inc. Research, USA
+			 <li> Andy Podgurski,  Case Western Reserve University, USA
+			 <li> Guenther Ruhe, University of Calgary, Canada
+			 <li> Sreedevi Sampath, University of Maryland, Baltimore County, USA
+			 <li> Salvatore Sarcia, University of Rome at Tor Vegada, Italy 
+			 <li> Martin Shepperd, Brunel University, UK 
+			 <li> Janice Singer, National Research Council, Canada 
+			 <li> Jeff Tian, Southern Methodist University, USA 
+			 <li> Burak Turhan, University of Oulu, Finland
+			 <li> Sira Vegas, Universidad Politecnica de Madrid, Spain
+			 <li> Stefan Wagner, Technische Universität Münch, Germany
+			 <li> Elaine Weyuker, AT&T Labs, Inc. Research, USA
+			 <li> Hongyu Zhang, Tsinghua  University, China
+			 <li> Thomas Zimmermann, Microsoft Research, USA & University of Calgary, Canada
+			 </ul>
+<h2>Also ...</h2>
+		<ul>
+		    <li>Student Symposium <b>Co-CHAIRs</b>: 
+				<ol>
+				<li>Emilia Mendes - University of Auckland, New Zealand
+				<li>Burak Turhan - University of Oulu, Finland
+				</ol>
+			<li> Editors of <a href="cfp.shtml#specialIssue">journal special issue </a>: Gunes Koru and Tim Menzies.
+			<li>Web site: Gregory Gay - West Virginia University, USA
+			<li>Local arrangements: Tim Menzies
+	    	<li> Publication: Gunes Koru  
+	    	<li> Publicity: Ayse Bener 
+		</ul>
+	
+<!--#include virtual="inc/tail.html"-->

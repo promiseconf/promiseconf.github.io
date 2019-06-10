@@ -1,0 +1,17 @@
+<!--#include virtual="inc/head1.html"-->
+<title>Registration | PROMISE 2010 </title>
+<!--#include virtual="inc/head2.html"-->
+
+
+<h2>Registration</h2>
+<p>
+For PROMISE 2010 registration and hotel reservation, visit:
+</p>
+<a href="http://registration.icsm2010.upt.ro/accounts/login/?next=/">ICSM Registration Site</a>
+<p>
+The early registration period ends on August 16th. The registration fees for PROMISE can be seen at:
+</p>
+<p>
+<a href="http://icsm2010.upt.ro/registration/fees">http://icsm2010.upt.ro/registration/fees</a>
+</p>
+<!--#include virtual="inc/tail.html"-->

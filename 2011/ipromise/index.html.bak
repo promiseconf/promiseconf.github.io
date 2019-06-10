@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB">
+<head>
+	<title>The Perfect 2 Column Liquid Layout (left menu): No CSS hacks. SEO friendly. iPhone compatible.</title>
+	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+	<meta name="description" content="The Perfect 2 Column Liquid Layout (left menu): No CSS hacks. SEO friendly. iPhone compatible." />
+	<meta name="keywords" content="The Perfect 2 Column Liquid Layout (left menu): No CSS hacks. SEO friendly. iPhone compatible." />
+	<meta name="robots" content="index, follow" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" type="text/css" href="screen.css" media="screen" />
+</head>
+<body>
+
+<div id="header">
+</div>
+<div class="colmask leftmenu">
+	<div class="colleft">
+		<div class="col1">
+			<!-- Column 1 start -->
+
+
+<img align=right width=600 src="product.jpg">
+<h2>Agenda: July 17, 2011</h2>
+<hr>
+<h3>
+Morning:  Tutorials
+</h3>
+
+<dl>
+<dt>
+09:00 - 10:15</td><dd>
+                           <b>Dr. Ayse Bener, TRITM, Ryerson University</b><br>
+Software Engineering and Data Mining: why? And Success Stories
+<br>
+</dd>
+
+
+<dt>10:30 - 11:40</td><dd> 
+                           <b>Dr. Elaine Weyuker, AT&T Research</b><br>
+Deployed Success Stories and Assessment of Models
+</dd>
+</dd>
+</dl>
+<br clear=all>
+<hr>
+<h3>Lunch</h3>
+<p>12- 2pm
+<hr>
+<h3>Afternoon: State of the Art</h3>
+<dl>
+<dt>
+14:00 - 15:30    Panel: Industry and Academia</dt><dd>
+                             <p><img align=left width=100 src="zeller.png"><b>Dr. Andreas Zeller, University of Saarland</b>: Dr. Zeller is a full professor for Software Engineering at Saarland University in Saarbruecken, Germany. His research concerns the analysis of large software systems and their development process; his students are funded by companies like Google, Microsoft, or SAP. In 2010, Zeller was inducted as Fellow of the ACM for his contributions to automated debugging and mining software archives.
+<br clear=all>
+                             <p><img align=left width=100 src="garousi.png"><b>Dr. Vahid Garousi, University of Calgary</b> Dr. Garousi (PhD, PEng) is an Assistant Professor of Software Engineering and an Alberta Ingenuity New Faculty (2007-2010) at the Department of Electrical and Computer Engineering of the University of Calgary. He is currently leading the Software Quality Engineering Research Group (SoftQual) and is affiliated with the Software Engineering Research Group (SERG) at the University of Calgary.
+<br clear=all><p><img align=left width=100 src="ostrand.png"><b>
+                             Dr. Tom Ostrand, AT&T:</b> Dr.  Ostrand is a Principal Member of Technical Staff at AT&T Labs in New Jersey. His research areas are software fault analysis and prediction, software testing, and empirical software engineering. Tom is a member of ACM and ACM-SIGSOFT, and is a past member of the SIGSOFT Executive Committee. He is currently an Associate Editor of the Journal of Empirical Software Engineering, the Program Chair for the Workshop on Predictor Models for Software Engineering (PROMISE), and a member of the Steering Committee of the International Symposium on Software Testing and Analysis (ISSTA). He was formerly in the Computer Science Department of Rutgers University, and the software research divisions of Sperry Univac and Siemens Corporate Research.
+<br clear=all>
+                             <p><b>Dr. Calisto Zuzarte, IBM Toronto Software Labs</b>: Dr.  Zuzarte is a Senior technical Staff Member (STSM) and serves on the DB2 architecture board. He manages the Linux, Unix and Windows DB2 compiler in a continuing engineering capacity. He specializes in Query Optimization for performance. Calisto is also a research staff member in the Centre for Advanced Studies (CAS) at the IBM Toronto Lab.
+                             <p>Richard Belzil, Seritrig Consulting
+                             <p>Dr. Andriy Miransky, IBM Toronto Software Labs
+                            </dd> 
+<dt>15:40 - 17:00    Round Table Discussion</dt>
+<dd> What is missing, what is needed?     </dd>
+</dl>
+
+		</div>
+		<div class="col2">
+			<!-- Column 2 start -->
+<h1>i-Promise 2011</h1>
+<p>
+Promise (Predictive Models in Software Engineering) http://promisedata.org/
+<p>
+One Day Industry Event
+<hr>
+<p>
+Co-located with International Symposium on Software Testing and Analysis, 
+<a href="http://issta11.unl.edu">ISSTA 2011</a>
+July 17-21, Toronto
+<hr>
+<p><b>Convnor</b>
+<p> <a href="http://www.ryerson.ca/itm/fcty/bener/bener.html">Ayse Bener, PhD</a>
+           Ted Rogers School of Information Technology Management, Ryerson University
+<center>
+<img src="bener.png" align=center width=100 border=1><br clear=all>
+</center>
+<hr>
+<p><b>Registration</b></p>
+<p>TBD
+<p><b>Accomodation</b></p>
+<p>TBD
+</center>
+					<!-- Column 2 end -->
+		</div>
+	</div>
+</div>
+<div id="footer">
+	footer
+</div>
+
+</body>
+</html>

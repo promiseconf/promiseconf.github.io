@@ -1,0 +1,86 @@
+
+=======================================================================
+CfP: RAISE 2015
+4th International Workshop on 
+Realizing Artificial Intelligence Synergies in Software Engineering
+Florence, Italy, May 17th, 2015 (In Conjunction with ICSE 2015)
+http://promisedata.org/raise/2015 
+======================================================================
+
+This workshop brings together academics and industrial practitioners to exchange and discuss the latest synergies arising from AI and SE techniques and practices. In SE we have to solve a wide range of increasingly complex questions that are dynamic, automated, adaptive, or large scale. In theory, AI technologies can support the development of increasingly complex SE systems (as in the case of recommendation systems), and help us to deal with the many problems inherent in requirements engineering. Conversely, in theory, SE can play a role in alleviating development costs and the development effort associated with AI tools and applications such as robotics where rigorous development and testing practices are of utmost importance. In practice, this theoretical connection between SE and AI is rarely achieved. All this begs the question:
+ * Are SE and AI researchers ignoring important insights from AI and SE?
+To answer this question, RAISE ’15 will explore not only the application of AI techniques to SE problems but also the application of SE techniques to AI problems. We seek papers that are position statements that review current state of the art results as well as papers that look over the horizon to discover future directions. Papers may either be regular position papers that will be published in the ICSE proceedings, or they may be published as “abstract only” and be seen solely by workshop attendees, presented in brainstorming sessions and discussed in breakout groups.
+
+Topics of interest 
+==================
+Prospective participants should submit a position paper on one or more of the following perspectives.
+1. Improving SE through AI – including but not limited to knowledge acquisition, knowledge representation, reasoning, agents, machine learning, machine-human interaction, planning and search, natural language understanding, problem solving and decision-making, understanding and automation of human cognitive tasks, AI programming languages, reasoning about uncertainty, new logics, statistical reasoning, software analytics.
+2. Applying AI to SE activities – including but not limited to requirements engineering, design, specification, traceability, program understanding, model-driven development, testing and quality assurance, domain-specific SE, adaptive systems, software evolution.
+3. SE for AI – including but not limited to AI programming languages, program derivation techniques in AI domains, platforms and programmability, software architectures, rapid prototyping and scripting for AI techniques, SE infrastructure for reflective and self-sustaining systems.
+4. Deployed Applications of AI or SE – papers that describe a deployed SE application in the AI domain or an AI application in the SE domain including but not limited to robotics software development and recommendation systems in SE.
+
+Important Dates
+===============
+Paper Subission: 23 January 2015
+Notification: 18 February 2015
+CR paper: February 27, 2015
+Workshop date: 17 May 2015
+
+Submission
+==========
+Submit papers (PDF) to https://www.easychair.org/conferences/?conf=raise2015 Submissions should be 5 pages for position papers and 7 pages for full papers. People who wish to publish ‘abstract only’ should still submit a paper for review. All papers are intended to be archived for publication in the ICSE Companion proceedings; however the authors may chose an abstract only publication of their work. If accepted, each paper will be presented in a 20 minute presentation session to stimulate discussion. Submissions must not be published or under review elsewhere, and conform to formatting using ACM Formatting Guidelines (http://2015.icse-conferences.org/submission-guidelines). Submission length should not exceed the above page limits and all submissions must be in English.
+
+Special Issue
+=============
+Extended versions of selected papers will be invited for publication in a special issue of the Automated Software Engineering journal. 
+
+Workshop Chairs
+=============== 
+Ayse Basar Bener, Ryerson Uni.
+Rachel Harrison, OBU, UK
+Burak Turhan, Uni. of Oulu
+
+Workshop Organizing Committee
+=============================
+Ayse Basar Bener, Ryerson Uni.
+Rachel Harrison, OBU, UK
+Cetin Mericli, CMU
+Leandro Minku, Uni. of Birmingham
+Andriy Miransky, Ryerson University
+Burak Turhan, Uni. of Oulu
+
+Program Committee
+=================
+Enrique Alba, University of Málaga
+Ebrahim Bagheri, Ryerson University Nelly Bencomo, Aston University, UK
+Ayse Basar Bener, Ryerson Uni.
+Francisco Chicano, University of Malaga
+John Clark, University of York
+Jane Cleland-Huang, DePaul Uni, USA
+Simon Colton, Goldsmiths, London Uni
+Daniela da Cruz, Uni of Minho, Portugal  
+Massimiliano Di Penta, Uni of Sannio 
+João Pascoal Faria, Uni. do Porto
+Mark Harman, UCL, UK
+Rachel Harrison, OBU, UK
+Pedro Henriques, Uni. of Minho Portugal 
+Ekrem Kocaguneli, Microsoft, USA
+Sotirios Liaskos, York Uni, Canada
+Nazim Madhavji, University of Western Ontario 
+Jouni Markkula, Uni. Of Oulu
+Tim Menzies, West Virginia Uni., USA
+Cetin Mericli, CMU
+Marjan Mernik, Uni of Maribor, Slovenia
+Farid Meziane, University of Salford
+Leandro Minku, Uni. of Birmingham
+Andriy Miransky, Ryerson University
+Daniel Rodriguez, Uni of Alcala, Spain
+Alessandra Russo, Imperial College, UK
+Ayse Tosun Misirli, Istanbul Tech. Uni. 
+Walter Tichy, Karlsruhe Inst. of Tech.
+Richard Torkar, Chalmers & Uni of Gothenburg, Sweden
+Burak Turhan, Uni. of Oulu
+Xin Yao, University of Birmingham
+Eric Yu, University of Toronto 
+Yuming Zhou, Nanjing University, China
+

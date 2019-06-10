@@ -1,0 +1,69 @@
+<!--#include virtual="inc/head1.html"-->
+<title>Call for Papers | PROMISE 2010 </title>
+<!--#include virtual="inc/head2.html"-->
+
+<h2>Call for Papers</h2>
+
+<p><font color=red>Note: submissions to this conference are now closed for 2010.</font>
+<p><em>
+(NOTE: submission deadlines have been extended. The new dates are:
+<ul>
+<li>May 28, 2010: abstracts are due;
+<li>June 4, 2010: papers submissions are due; 
+<li>June 4, 2010: student symposium  submissions are due.)
+</ul></em>
+
+The PROMISE conference provides an annual forum for researchers and practitioners to present and exchange ideas, results, and experiences with predictive models that are applicable to implementation, evaluation, and management of software processes and projects.  
+<p>
+A key objective of PROMISE is to help establish <em>verifiable and repeatable </em> models that are 
+<em>useful</em> to the software engineering community.
+<h2>Scope</h2>
+Traditionally, PROMISE meetings have primarily focused on effort and defect prediction. PROMISE 2010 is also expanding its scope to include non-traditional predictive models regarding the business, team, human, people, process, and organizational aspects of software engineering. Predictive models related to software development efforts in particular application domains (e.g., healthcare) are encouraged as well. 
+<p>
+The topics of interest include but are not limited to:<br>
+<!--#include virtual="inc/scope.html"-->
+<h2>Data</h2>
+The PROMISE on-line repository provides researchers and practitioners a central location where they can store the data they use to make their conclusions, and access models and data used by other researchers and practitioners, The repository now contains 89 data sets, which can be used to repeat/confirm/refute/improve previous results. Conference attendees are encouraged to provide their datasets to the PROMISE repository, to be used for experiments and as benchmarks by other researchers.
+<br>
+<br>
+Following the tradition of the PROMISE effort, PROMISE 2010 will give the highest priority to empirical studies based on publicly available datasets. Conducting reproducible, verifiable, and refutable research is an important goal of PROMISE. A public data set is defined as a data set made available online to the general public. All other data sets are considered proprietary data sets (e.g., those made available only to certain individuals with agreements restricting public distribution). To increase the chance of acceptance, authors are urged to submit papers that use public datasets.  Data can come from anywhere including the <A HREF = "http://promisedata.org/?cat=11"> PROMISE repository </A>.
+<br>
+<br>
+Submissions should be five to ten pages long (max), and must be original and previously unpublished. 
+
+<h2>Kinds of papers</h2>
+<p>Full papers: 
+<ul>
+<li>For completed results, to be critically reviewed by the full program committee.
+</ul>
+<p>Student symposium papers: 
+<ul>
+<li>For work-in-progress. Such  papers will be reviewed, but more "helpfully" than "critically",
+for the <a href="http://promisedata.org/2010/students.shtml">student symposium</a>.
+</ul>
+<h2>Publication</h2>
+Full Papers presented
+at PROMISE 2010 will be published in the  ACM digital library.
+<p>
+Student symposium papers will not be published in ACM but will be  listed in our program as a PROMISE paper.
+
+<a name="specialIssue"><h2>Special Issue</h2></a> Extended versions of selected papers from prior PROMISE workshops
+appeared in IEEE Software, Empirical Software Engineering journal, and
+the Journal of Information and Software Technology. 
+<p>
+Exceptional student symposium papers may be candidates for special issues.
+<p>
+For PROMISE'10, the special issue will be in the <a href="http://www.springerlink.com/content/100262">journal of Empirical Software Engineering</a>
+(guest editors Gunes Koru and Tim Menzies).
+
+<h2>Prizes</h2>
+<p>Awards will be given for best full paper and best student symposium paper.
+<h2>Other Information</h2>
+
+<ul>
+<li><a href="http://promisedata.org/2010/dates.shtml">Important dates</a>
+<li><a href="http://promisedata.org/2010/submission.shtml">Submission procedure</a>
+</ul>
+<!--#include virtual="inc/tail.html"-->
+
+

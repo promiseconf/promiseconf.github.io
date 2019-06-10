@@ -1,0 +1,10 @@
+  503  nano
+  504  http://lh5.ggpht.com/_wNh-YqdmUc0/StKkfCOC1aI/AAAAAAAACFI/GJPI6XidUAk/ist2_7876209-what-solution.jpg
+  505  http://lh3.ggpht.com/_wNh-YqdmUc0/StKkl9N9YrI/AAAAAAAACFM/bCp67HzlVN0/ist2_6563777-3d-graph-9.jpg
+  506  http://lh3.ggpht.com/_wNh-YqdmUc0/StKkwUcD3ZI/AAAAAAAACFo/OrA1JZxQPkI/ist2_5143796-colored-pencil-bar-graph.jpg
+  507  http://lh3.ggpht.com/_wNh-YqdmUc0/StKoZWv34WI/AAAAAAAACGI/MG-NWqjsZBA/ist2_10367044-on-solution.jpg
+  508  history
+  509  history | tail -4
+  510  history | tail -7
+  511  vi index.html 
+  512  history | tail -10 > u

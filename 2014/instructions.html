@@ -1,0 +1,96 @@
+
+				<h1><abbr title="Predictive Models in Software Engineering"></abbr><span> Final Submission Instructions:</span></h1>
+				
+<h2>Please read carefully theseinstructions to prepare and submit your camera-ready copy of your paper. After the final PDF is ready, please submit it by just updating your submission on EasyChair (we have reopened the submission for that purpose). The deadline for submitting it is *July 5, 2014, AOE Time*</h2>
+
+<p>INSTRUCTIONS TO PREPARE THE CAMERA-READY COPY:
+
+</p><p> Full (short) papers must not exceed 10 pages, including references.
+
+</p><p> Authors will receive the rights management form directly from ACM shortly. Please make sure that you set email SPAM settings to allow emails from "rightsreview@acm.org".
+
+</p><p> The format of your paper must strictly adhere to the ACM SIG Proceedings Format. You can use the ACM Word or LaTeX style templates to ensure that. Templates are available at http://www.acm.org/sigs/publications/proceedings-templates.
+
+</p><p> Make sure you correctly classified your paper using the ACM Computing Classification categories and terms. ACM requires the three small sections 'Categories and Subject Descriptors', 'General Terms', and 'Keywords' to follow the abstract. The keywords can be freely chosen, but the content of the other two must be picked from the lists provided athttp://www.acm.org/about/class/1998
+
+</p><p> Articles must be in PDF format.
+
+</p><p> All fonts must be embedded in the PDF file. The following link contains instructions on that: http://www.acm.org/publications/WORD%20to%20PDF%20instructions.txt
+
+</p><p>All fonts must be Type 1 (scalable). Bit-mapped font types (like Type 3) are not acceptable.
+
+</p><p>All figures should be embedded in vector graphics or bitmaps with a resolution of at least 300 dpi.
+
+</p><p>You must include the rights management text and bibliographic strip sent by ACM in the camera-ready, on the bottom of the first page left column.
+
+</p><p>In order to include the correct rights management text and bibliographic strip in latex, authors will need to add the following commands immediately after \begin{document} in their .tex file:
+
+\conferenceinfo{PROMISE}{'14, September 17, 2014, Turin, Italy}
+\CopyrightYear{2014}
+\crdata{978-1-4503-2898-2/14/09}
+
+</p><p> In addition to that, ACM's style file may need to be manually modified in order to display the correct information. If you are using "sig-alternate.cls", please see attached the instructions on how to modify the style. Note that you need to complete the changes indicated below using the DOI and the right management text provided by the ACM.
+
+</p><p>These are the instructions that will need to be modified:
+
+</p><p>
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\ps@plain
+\baselineskip=11pt
+\let\thepage\relax % For NO page numbers - GM Nov. 30th. 1999 and July 2000
+\def\setpagenumber#1{\global\setcounter{page}{#1}}
+%\pagenumbering{arabic}  % Arabic page numbers GM July 2000
+\twocolumn             % Double column.
+\flushbottom           % Even bottom -- alas, does not balance columns at end of document
+\pagestyle{plain}
+
+% Need Copyright Year and Copyright Data to be user definable (in .tex file).
+% Gerry Nov. 30th. 1999
+\newtoks\copyrtyr
+\newtoks\acmcopyr
+\newtoks\boilerplate
+\global\acmcopyr={X-XXXXX-XX-X/XX/XX}  % Default - 5/11/2001 *** Gerry
+\global\copyrtyr={20XX}                % Default - 3/3/2003 *** Gerry
+\def\CopyrightYear#1{\global\copyrtyr{#1}}
+\def\crdata#1{\global\acmcopyr{#1}}
+\def\permission#1{\global\boilerplate{#1}}
+%
+\global\boilerplate={Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page.  To copy otherwise, to republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee.}
+\newtoks\copyrightetc
+\global\copyrightetc{Copyright \the\copyrtyr\ ACM \the\acmcopyr\ ...\$15.00} % Gerry changed to 15 May 2012
+\toappear{\the\boilerplate\par
+{\confname{\the\conf}} \the\confinfo\par \the\copyrightetc.}
+
+
+</p><p>
+The commands to be included/modified are marked with <--- below:
+</p><p>
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\ps@plain
+\baselineskip=11pt
+\let\thepage\relax % For NO page numbers - GM Nov. 30th. 1999 and July 2000
+\def\setpagenumber#1{\global\setcounter{page}{#1}}
+%\pagenumbering{arabic}  % Arabic page numbers GM July 2000
+\twocolumn             % Double column.
+\flushbottom           % Even bottom -- alas, does not balance columns at end of document
+\pagestyle{plain}
+
+% Need Copyright Year and Copyright Data to be user definable (in .tex file).
+% Gerry Nov. 30th. 1999
+\newtoks\copyrtyr
+\newtoks\acmcopyr
+\newtoks\boilerplate
+\global\acmcopyr={X-XXXXX-XX-X/XX/XX}  % Default - 5/11/2001 *** Gerry
+\global\copyrtyr={20XX}                % Default - 3/3/2003 *** Gerry
+\def\CopyrightYear#1{\global\copyrtyr{#1}}
+\def\crdata#1{\global\acmcopyr{#1}}
+\def\permission#1{\global\boilerplate{#1}}
+%
+\global\boilerplate={Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page.  To copy otherwise, to republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee.} % <---modify this to display the rights management text provided by ACM. This may or may not be the same text that is currently in the .cls file, depending on your rights management choice.
+\newtoks\copyrightetc
+\global\copyrightetc{Copyright \the\copyrtyr\ ACM \the\acmcopyr\ ...\$15.00} % <---modify this to display the correct rights management text provided by ACM. This may or may not be the same text that is currently in the .cls file, depending on your rights management choice.
+\toappear{\the\boilerplate\par
+{\confname{\the\conf}} \the\confinfo\par \the\copyrightetc.\par \the\doi} % <---modify this to include \par /the/doi
+\newtoks\doi % <--- include this line
+\global\doi{http://dx.doi.org/XXXXXXX} % <--- include this with your DOI

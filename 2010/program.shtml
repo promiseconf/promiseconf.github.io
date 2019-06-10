@@ -1,0 +1,144 @@
+<!--#include virtual="inc/head1.html"-->
+<title>Program | PROMISE 2010 </title>
+<!--#include virtual="inc/head2.html"-->
+
+
+<p>All the PROMISE'10 papers are on-line at <a href="http://portal.acm.org/citation.cfm?id=1868328&type=proceeding&coll=portal&dl=ACM"><img align=middle src="http://ujsciencelibrarian.pbworks.com/f/1267132512/logo_acm_portal2.jpg" width=200></a>
+<h2>Program</h2>
+<center>
+<object width="400" height="300"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Ftimmenzies%2Fsets%2F72157624827186597%2Fshow%2F&page_show_back_url=%2Fphotos%2Ftimmenzies%2Fsets%2F72157624827186597%2F&set_id=72157624827186597&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Ftimmenzies%2Fsets%2F72157624827186597%2Fshow%2F&page_show_back_url=%2Fphotos%2Ftimmenzies%2Fsets%2F72157624827186597%2F&set_id=72157624827186597&jump_to=" width="400" height="300"></embed></object>
+</center>
+<h3>Sunday</h3>
+<p> Keynote 9-10am
+<p>
+<img align=left src="img/mark.jpg" >
+<a href="http://promisedata.org/2010/keynotes.shtml#harman">How SBSE can Support Construction and Analysis of Predictive Models</a>
+<br>
+Prof. Mark Harman, Department of Computer Science at King's College London
+(<a href="pdf/1_Harman_slides.pdf">slides</a>).
+<br clear=all>
+
+<p>Session 1) 10:15 - 11:15am <b>Search-Based Software Engineering</b>
+<br>Session Chair: Mark Harman
+<ul> 
+<li>Rui Abreu and Arjan van Gemund. Exploiting Count Spectra for Bayesian Fault Localization
+(<a href="pdf/22_Abreu_slides.pdf">slides</a>).
+<li>Adam Brady and Tim Menzies. Case-Based Reasoning vs. Parametric Models for Software Quality Optimization
+(<a href="pdf/19_BradyMenzies_slides.pdf">slides</a>).
+</ul>
+
+<p> Session 2) 11:30 - 12:30 <b>Search-Based Software Engineering &amp; Methodology</b>
+<br>Session Chair: Tim Menzies 
+<ul><li><font color=red>BEST PAPER AWARD: </font>Anna Corazza, Sergio Di Martino, Filomena Ferrucci, Carmine Gravino, Federica Sarro and Emilia Mendes. 
+How Effective is Tabu Search to Configure Support Vector Regression for Effort Estimation?
+(<a href="pdf/29_Corazza_slides.pdf">slides</a>).
+<li>Thilo Mende. Replication of Defect Prediction Studies: Problems, Pitfalls and Recommendations
+(<a href="pdf/52_Mende_slides.pdf">slides</a>).
+</ul>
+
+ 
+<p> LUNCH
+
+<p> Session 3) 2:00 - 3:00 <b>  Methodology</b>
+<br>Session Chair: Tom Ostrand 
+<ul>
+<li>Panel & Discussion: "Is Replication a Bad Idea?". 
+<ul>
+<li>Panelists: Tim Menzies (<a href="pdf/panelBenar.pdf">slides</a>), 
+Ayse Benar (<a href="pdf/panelMenies.pdf">slides</a>), Mark Harman (no slides).
+<li>Read their <a href="panel.shtml">position statements</a>
+</ul>
+</ul>
+
+<p> Session 4) 3:15 - 4:15 <b> Effort Estimation </b>
+<br>Session Chair: Ayse Bener 
+<ul>
+<li>
+Luigi Lavazza and Gabriela Robiolo. The Role of the Measure of Functional Complexity in Effort Estimation
+(<a href="pdf/15_LavazzaRobiolo_slides.pdf">slides</a>).
+<li>
+Nikolaos Mittas, Makrina Viola Kosti, Vasiliki Argyropoulou, and Lefteris Angelis. Modeling the Relationship between Software Effort and Size Using Deming Regression
+(<a href="pdf/25_Mittas_slides.pdf">slides</a>).
+</ul>
+
+<p>Session 5)  4:30 - 5:30 <b>Categorization for Defect Prediction</b>
+<br>Session Chair: Burak Turhan 
+<ul>
+<li> Bora Caglayan, Ayse Tosun, Andriy Miranskyy, Ayse Bener and Nuzio Ruffolo. Usage of Multiple Prediction Models Based On Defect Categories
+(<a href="pdf/43_Caglayan_slides.pdf">slides</a>).
+<li>Marian Jureczko and Lech Madeyski. Towards identifying software project categories with regard to defect prediction
+(<a href="pdf/11_Jureczko_slides.pdf">slides</a>).
+</ul>
+
+<p>CONFERENCE DINNER: TBD
+
+<h3>Monday</h3>
+
+<p> Keynote 9-10am
+
+<p>
+<img width=90  align=left src="img/judith.jpg" >
+<a href="http://promisedata.org/2010/keynotes.shtml#bishop">Overcoming scale and privacy issues in industrial software studies and repositories</a>
+<br>
+Dr. Judith Bishop,  Director of Computer Science,  External Research, Microsoft.
+(<a href="pdf/bishop_slides.pdf">slides</a>).
+<br clear=all>
+
+
+<p>Session 6) 10:15 - 11:15am
+<b>Testing &amp; Quality </b>
+<br>Session Chair: Tom Ostrand 
+<ul>
+<li>Gul Calikli and Ayse Bener. Empirical Analyses of the Factors Affecting Confirmation Bias and the Effects of Confirmation Bias on Software Developer/Tester Performance
+(<a href="pdf/43_Caglayan_slides.pdf">slides</a>).
+<li>Burak Turhan, Cetin Mericli and Tekin Mericli. Better, Faster and Cheaper: 
+What is Better Software?
+(<a href="pdf/50_Turhan_slides.pdf">slides</a>).
+</ul>
+
+<p> Session 7) 11:30 - 12:30
+<b> SBSE &amp; Data Quality</b>
+<br>Session Chair: Tim Menzies 
+<ul>
+<li>Gregory Gay. A Baseline Method For Search-Based Software Engineering
+(<a href="pdf/16_Gay_slides.pdf">slides</a>).
+<li>Marta Fernandez-Diego, Monica Martinez-Gomez and Jose-Maroa Torralba-Martinez. Sensitivity of results to different data quality meta-data criteria in the sample selection of projects from the ISBSG dataset
+(<a href="pdf/8_Fernandez-Diego_slides.pdf">slides</a>).
+<ul>
+
+<p> LUNCH
+
+<p> Session 8) 2:00 - 3:00
+<b>Categorization for Defect Prediction</b>
+<br>Session Chair: Burak Turhan 
+<ul>
+<li>Hongyu Zhang, Adam Nelson and Tim Menzies. On the Value of Learning From Highly-Dense Components for Software Defect Prediction
+(<a href="pdf/26_Zhang_slides.pdf">slides</a>).
+<li>Youngki Hong, Wondae Kim, Jeongsoo Joo. 
+Prediction of Defect Distribution based on Project Characteristics for Proactive Project Management
+(<a href="pdf/5_Hong_slides.pdf">slides</a>).
+</ul>
+
+<p> Session 9) 3:15 - 4:15 <b>Cost modeling</b>
+<br>Session Chair: Tim Menzies 
+<ul>
+<li>
+Thomas Schulz, Rukasz Radlinski, Thomas Gorges and Wolfgang Rosenstiel. Defect Cost Flow Model- A Bayesian Network for Predicting Defect Correction Costs
+(<a href="pdf/49_Schulz_slides.pdf">slides</a>).
+<li>
+Ralf Gitzel, Simone Krug and Manuel Brhel. Towards A Software Failure Cost Impact Model for the Custome
+(<a href="pdf/21_GitzelKrugBrhel_slides.pdf">slides</a>).
+</ul>
+
+<p> Session 10)  4:30 - 5:30  <b>Developer-based Fault Prediction</b>
+<br>Session Chair: Ayse Bener 
+<ul>
+<li>
+Shinsuke Matsumoto, Yasutaka Kamei, Akito Monden, Kenichi Matsumoto and Masahide Nakamura. An Analysis of Developer Metrics for Fault Prediction
+(<a href="pdf/40_Matsumoto_slides.pdf">slides</a>).
+<li>
+Thomas Ostrand, Robert Bell and Elaine Weyuker. Programmer-based fault prediction
+(<a href="pdf/33_Ostrand_slides.pdf">slides</a>).
+</ul>
+
+<!--#include virtual="inc/tail.html"-->

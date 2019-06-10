@@ -1,0 +1,103 @@
+<!--#include virtual="inc/head1.html"-->
+<title>Student Symposium | PROMISE 2010 </title>
+<!--#include virtual="inc/head2.html"-->
+
+<h2>Student Symposium</h2>
+
+
+The Student Symposium on Predictive Models in Software Engineering
+(PROMISE-SS) will be co-located with the 6th International Conference on
+Predictive Models in Software Engineering (PROMISE September 12-13, 2010),
+and the 26th IEEE International Conference on Software Maintenance (ICSM
+September 12-18, 2010), which will take place in Timisoara, Romania. The
+Symposium will take place on the 13th of September, from 2 to 6 pm.
+
+<h2>Goal</h2>
+
+The main goal of the PROMISE-SS is to provide graduate students with a forum to:
+<ul>
+    <li> present their research and be provided useful feedback from the Symposium's committee members, and the audience.
+	    <li> increase their professional network by having the opportunity to meet more 
+		senior researchers and academics conducting research in the student's field of research
+		    <li> have an opportunity to discuss career options and opportunities with senior researchers and academics
+			    <li> provide an opportunity for students to also attend PROMISE and ICSM
+				    <li> provide an opportunity for students to present their research at an International Forum
+</ul>
+
+					<h2>Scope</h2>
+
+<p>					The scope of the PROMISE-SS is the same one as that of PROMISE, thus including, but not being limited to, the following topics of interest:
+<!--#include virtual="inc/scope.html"-->
+
+<h2>Submission</h2>
+
+	<p>														We welcome submissions from students who are at an initial as well as at a mature stage of their research. In both instances students will need to submit an abstract of no more than 5 pages, formatted using the same formatting guidelines as those used by PROMISE.
+<p>
+															The abstract needs to have at least the following sections:
+<ul>
+<li>TITLE
+<li>SUMMARY (200 words)
+															    <li> QUESTION: The research problem or question to be answered, with a motivation for its importance.
+																    <li> RELATED WORK: A summary that critically presents previous and related work to be used to justify the student's research proposal.
+																	    <li> CONTRIBUTION: The expected contribution(s) to the body of knowledge that the research is likely to make.
+																		    <li> PLAN: A research plan detailing how the research question or problem will be answered (includes the research methodology to be used, and how results will be evaluated in order to provide credible evidence).
+																			    <li> RESULTS: A description of the work already conducted, work in progress, and future work. 
+<li>LETTER OF RECOMMENDATION: Supervisors' Letter of Recommendation (1 page or less) 
+																							offering an assessment of the current status of the research.
+</ul>
+<p>The format of the paper must follow the
+<a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM guidelines</a>.
+<P>
+																				Submissions that do not comply with the instructions abovementioned will be rejected without review.
+<p>To submit to the symposium, see <a href="submission.shtml">our submission page</a>.
+<p>
+																				Note that by submitting an abstract to the PROMISE-SS, the author(s) agree to the following conditions, if their abstract is accepted:
+<ul>
+<li>
+																				     Submit a final, revised, camera-ready version of the abstract by the deadline specified for camera-ready abstracts,
+																					    <li> At least one author must register for the Doctoral Symposium
+																						    <li> At least one author must attend the Doctoral Symposium to give an oral presentation of their research. 
+</ul>
+																							<h2>Evaluation</h2>
+
+																							The PROMISE-SS Committee will select submissions using the following criteria:
+<ul>
+<li>
+																							     The potential contribution of the research detailed
+																								    <li> Research topic in line with the scope of the Doctoral Symposium.
+																									    <li> Quality of the research abstract.
+																										    <li> The stage of the research. 
+</ul>
+	<h2>																										Proceedings</h2>
+<p>
+																											Accepted abstracts will be published in the Proceedings of the PROMISE-SS, to be distributed to all participants of this Symposium. These Proceedings will also be placed on-line at http://promisedata.org/2010.
+																											
+																										<h2>	Important Dates</h2>
+<p>See <a href="dates.shtml">here</a>.
+
+																											<h2>
+																											Doctoral Symposium Co-Chairs</h2>
+<p>
+<ul>
+<li>
+Emilia Mendes, CS Department, The University of Auckland, New Zealand
+<li>Burak Turhan,
+Depart. of Information Processing Science, University of Oulu, Finland
+</ul>
+<h2>
+																											Program Committee</h2>
+																											<ul>
+<li>Lefteris Angelis
+<li>Jacky Keung  
+<li>Tim Menzies  
+<li>Maurizio Morisio 
+<li>Guenther Ruhe 
+<li>Alessando Sarcia
+<li>Stefan Wagner
+<li>Elaine Weyuker
+<li>Hongyu Zhang  
+<li>Tom Zimmermann
+</ul>
+
+
+<!--#include virtual="inc/tail.html"-->

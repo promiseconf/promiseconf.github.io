@@ -1,0 +1,39 @@
+<!--#include virtual="inc/head1.html"-->
+<title>Promote | PROMISE 2010 </title>
+<!--#include virtual="inc/head2.html"-->
+
+
+<h2>Help Promote PROMISE'10</h2>
+
+Please help us spread the word:
+<ul>
+<li> Forward the Call for Papers to your colleagues;
+<li>Display our poster in your office;
+<li>Follow us on Twitter and on Facebook;
+<li>Add the PROMISE'10 button to you web site - simply
+paste the HTML shown below on your web page.
+<p>
+<img src="img/2010_button.jpg">
+
+<p>
+<pre>
+&lt;a href="http://promisedata.org/2010">
+   &lt;img src="http://promisedata.org/2010/img/2010_button.jpg"
+       border=0 alt="PROMISE'10" title="PROMISE'10"
+	   width=203 height=103/>
+&lt;/a>
+</pre>
+<p>
+Alternatively, you can 
+<a href="img/2010_button.jpg">download</a> the image,
+upload it to your webpae with something like:
+<pre>
+&lt;a href="http://promisedata.org/2010">
+   &lt;img src="path/to/img/2010_button.jpg"
+       border=0 alt="PROMISE'10" title="PROMISE'10"
+	   width=203 height=103/>
+&lt;/a>
+</pre>
+</ul>
+
+<!--#include virtual="inc/tail.html"-->

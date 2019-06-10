@@ -1,0 +1,78 @@
+html, body {	padding: 0;	margin: 0;	height: 100%;	background-color: #f4f4f4;	font-size: 100%;	font-family: "trebuchet ms", arial, verdana;	color: #888;}
+
+ul, p, form, h1, h2, h3, ol, blockquote {	padding: 0;	margin: 0; }
+
+a { color: #EF7B0A; text-decoration:none;}
+a:hover { text-decoration: underline; }
+
+#header-container { 	background: #0B1933; border-bottom: 3px solid #CE6C1C; }
+
+#header { width: 900px;	margin: auto;	position:relative; }
+#header ul {list-style:none; position:absolute;bottom:-1px;right:10px }
+#header>ul { list-style: none; position:absolute;	bottom: 0;	right: 10px; }
+#header ul li {	float: left; }
+#header ul a { position:relative;display:block;padding: 6px 10px;	background-color: #b9c6db;	color: #071328;	font: bold 100% "trebuchet ms", arial, verdana, sans-serif;	text-decoration: none;	text-transform: uppercase;	border-bottom: 1px solid #081631;	margin-right: 1px; }
+#header a:hover {	background-color: #3F4A5E;}
+#header ul a.active {	position:relative;padding: 6px 10px 7px 10px;	border: 0;	background-color: #CE6C1C;	cursor: default; color:#FFF; }
+#header ul a.active:hover {	background-color: #CE6C1C; }
+
+h1 { font: 250% "trebuchet ms"; color: #fff; padding: 25px 0 25px 10px;}
+h1 span { color: #6BAD42; }
+h1 a { color: #FFF; }
+h1 a:hover { color: #6BAD42;  text-decoration: none; background-color:transparent !important;}
+h1 a:hover span { color: #FFF;}
+
+p#slogan {font: bold 60% arial, verdana, sans-serif; color: #fff; display:inline; position:absolute;top: 65px; left: 180px; } /* Change left to position slogan */
+
+#content { width: 900px; margin: auto; padding-bottom: 20px; padding-top:25px;background-color:#FFF;}
+#content-left { width: 540px; float: left;}
+#content-right { width: 275px; float:right;margin-right: 25px;}
+#content p { color: #888; font-size: 80%; line-height: 170%; margin: 5px 0;}
+
+#footer {width: 900px; margin: 0 auto; padding-bottom: 40px; color: #888; font: 70% arial, verdana, sans-serif; border-top: 3px solid #CE6C1C}
+#footer p { padding: 8px; }
+#footer #copyright { float: left; }
+#footer #design { float: right; }
+
+.clear { clear:both; }
+
+.post-bottom { clear:both; border-top: 1px solid #eee;  padding-top: 3px; margin-top: 20px; position:relative;height: 60px;}
+.post-bottom a { margin-left: 20px; font-size: 80%; }
+.comment-link { padding-left: 20px; background: url(_images/comment.gif) 0 3px no-repeat; }
+.readmore-link { padding-left: 18px; background: url(_images/readmore.gif) 0 3px no-repeat; }
+.post-by { position:absolute;top:5px;left:0; color:#aaa;font-size: 80%;}
+.post-by a { padding-left: 20px; margin: 0 !important;font-size:100% !important; background: url(_images/poster.gif) 0 2px no-repeat;}
+.post-actions {position:absolute;right:0;top:5px;}
+#content-left h2, #content-left h3, #content-left p , #content-left div, #content-left ul, #content-left ol, #content-left form { margin-left: 25px; }
+
+h3 { font: 90% arial, verdana, sans-serif; }
+
+#content ul {list-style: none; font-size: 80%;margin: 5px 25px;}
+#content ul li {display:inline;}
+#content ul a {position:relative;}
+
+#content ol {font-size: 80%;margin: 5px 25px;}
+#content ol li {margin-left: 35px;}
+
+p img { float:left; margin: 0 10px 5px 0;}
+
+.sidebar {margin: 0 0 30px 0 !important;}
+.sidebar a {border-bottom: 1px dotted #ddd;display:block;padding: 5px}
+.sidebar a:hover {background-color: #f6f6f6; text-decoration:none;}
+
+#content-right h2.sidebar-top {margin-top: 0;}
+#content-right h2 {margin: 30px 0 0 0;}
+
+
+blockquote { font-style:italic; font-size: 80%; margin: 5px 0 5px 50px;}
+
+code {font: 80% courier, georgia, "times new roman"; background-color: #f5f5f5;margin-left: 50px;display: block; padding: 5px;}
+
+h2 { font: bold 100% arial, verdana, sans-serif; color: #3B578B; border-bottom: 1px solid #eee; padding-bottom: 3px; margin-bottom: 15px;}
+
+
+form { font-size: 80%; background-color: #f5f5f5; padding: 20px 40px;}
+label { display: block; }
+input.textbox, textarea { width: 100%; }
+input.button {font: 120% arial, verdana, sans-serif; margin-top: 10px;}
+textarea {display:block; height: 100px;}

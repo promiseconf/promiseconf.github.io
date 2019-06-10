@@ -1,0 +1,90 @@
+<!--#include virtual="inc/head1.html"-->
+<title>Important Dates | PROMISE 2010 </title>
+<!--#include virtual="inc/head2.html"-->
+
+
+<h2>Panel Session: "Is Replication a Bad Idea?"</h2>
+
+<h4>Tim Menzies</h4>
+<p>
+<img width=100 align=right src="http://promisedata.org/2010/img/timm.jpg">
+<em>LCSEE, WVU, USA</em>
+<p>
+Playing devils advocate, I will present the anti-replication case;
+i.e. <ol>
+<li>replication of data mining studies is stupid because data
+mining confused correlation with causality;  
+<li> trite replications of
+methodologically flawed studies is time-wasting pedantry;  
+<li> what
+matters is not "replication" but "reproduction" of causal effects in
+different domains; 
+<li>study data separate to project context is crazy
+since what matters are "case studies" (that collect new project data),
+not mere "experiments"  (that look for effects in current project
+data).
+</ol>
+<p>
+I will then flip the switch and talk about what I really
+believe: i.e. Web-based Science 2.0 with its open data emphasis has
+changed the nature of empirical SE and the data mining methods of
+PROMISE place it at the forefront of that new kind of science
+
+<h4>Ayse Bener</h4>
+<p><img width=100 align=right src="http://promisedata.org/2010/img/Ayse_BENER.jpg">
+
+<p>I think the question "is replication a bad idea?" has different
+answers in for academia, industry, and in training.
+<p>
+From an academic point of view, exact replication studies do not
+lend themselves to publications.  Here at Softlab, we have written
+replication papers before but we either took the dataset as is and
+used the same methodology and then extended the methodology, or
+tried the same methodology on different datasets.
+<p>
+However, in industry work, it is very useful to replicate the same
+methodology on the company's own data and draw some conclusions.
+Companies  would like to see the similarities  with others and they
+would like to understand what their difference is if we get a
+different result on their data from the rest of the crowd. It is a
+benchmarking game for them.
+<p>
+Finally, if we forget about publishing all together, pure replication
+also serves a valuable educational and learning purpose. In my
+empirical SW engineering class I assign papers and ask students to
+replicate them. In this way, students can quickly come up to speed
+with the state of the art.
+
+<h4>
+Mark Harman</h4>
+<p>
+<img width=100 align=right src="http://promisedata.org/2010/img/mark.jpg">
+<em>Department of Computer Science at King's College London. </em>
+<p>
+The problem with replication is that it is seen as boring, unoriginal
+and of little value to career development. The problem with replication
+is that it is seen as boring, unoriginal and of little value to career
+development. 
+<p>The last  paragraph illustrate the
+issue. However, all is not as it seems. We have a poor set of associations
+with the word "replication". The dictionary definition of the word
+is "the action of copying or reproducing something". Understandably,
+therefore, we may fall into the trap of thinking of it as repeating,
+without original content. Who wants a replica when you can have the
+original? 
+I can think of no positive connotations of the word for the
+person practicing it. Worse, we may think it is impossible in any case:
+Drugs trials might be replicatable, but how will we ever replicate
+another researcher's software development environment and remove all
+confounding factors?
+<p>
+If we want replication studies, we need to consider
+the oft ignored social aspects of the way we "do science'; we need to
+work with the grain of human nature and not against it. I believe that
+with a little imagination and necessary support from the community,
+valuable replication can be built into PhD programs in a way that
+could be beneficial to both the students undertaking the work and our
+discipline as a whole. In my slot on the panel I will explain how I
+believe that this might be achieved.  
+
+<!--#include virtual="inc/tail.html"-->

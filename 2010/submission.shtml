@@ -1,0 +1,77 @@
+<!--#include virtual="inc/head1.html"-->
+<title>Submissions | PROMISE 2010 </title>
+<!--#include virtual="inc/head2.html"-->
+<h2>Submission</h2>
+<p><font color=red>Note: submissions to this conference are now closed for 2010.</font>
+ <p>By submitting to PROMISE, the author(s) agree to the following conditions, if their paper is accepted:
+<ul>
+     <li> Submit a final, revised, camera-ready version of the abstract by the deadline specified for camera-ready abstracts,
+	     <li> At least one author must register for the conference.
+		     <li> At least one author must attend the conference to give an oral presentation of their research. 
+			 </ul>
+
+<h2>Types of Papers</h2>
+<p>
+Papers for PROMISE 2010 can be either full research papers or student symposium papers. 
+The purposes of the category are to help the Program Committee recognize the broad direction of your paper, and to distribute the papers to appropriate reviewers.
+When you submit your paper, you must use a different url for each type:
+<ul>
+<li>
+Submit full papers to:
+<a href="http://www.easychair.org/conferences/?conf=promise2010">http://www.easychair.org/conferences/?conf=promise2010</a>.
+<li>
+Submit symposium papers to:
+<a href="http://www.easychair.org/conferences/?conf=promisess2010">http://www.easychair.org/conferences/?conf=promisess2010</a>.
+</ul>
+<p>
+Your choice will not influence whether your paper is accepted or rejected.
+However, you should note that
+student symposium papers <em>will not</em>
+be published with the ACM (put they will appear in all official descriptions of the PROMISE'10 proceedings).
+<h2>Structured Abstracts</h2>
+<p>
+In order to better faciliate the dissemination of our empirical results, 
+it is a requirement that all PROMISE papers (both full research papers <em>and</em>
+student symposium papers) begin with structured abstracts.
+<p>
+The format for the structured abstracts can be found at <a href="http://www.dur.ac.uk/ebse/abstracts.php"> http://www.dur.ac.uk/ebse/abstracts.php</a>
+<p>
+IMPORTANT: Papers that do not offer structured abstracts will NOT be reviewed. 
+<h2>Formatting</h2>
+Submissions and final camera-ready versions must follow the ACM SIG Proceedings style. Word, Word Perfect, and LaTex templates can be found here: 
+<a href="http://www.acm.org/sigs/publications/proceedings-templates">http://www.acm.org/sigs/publications/proceedings-templates</a>.
+
+
+<p>
+The submitted version of your paper must be in Adobe pdf. Please use an available tool to convert your Word or LaTex output to pdf.
+<h2>To Submit Conference Papers</h2>
+<p>
+Conference papers should be submitted here: 
+<a href="http://www.easychair.org/conferences/?conf=promise2010">http://www.easychair.org/conferences/?conf=promise2010</a>.
+
+<h2>To Submit Student Symposium Papers</h2>
+<p>
+Student symposium papers should be submitted here:
+<a href="http://www.easychair.org/conferences/?conf=promisess2010">http://www.easychair.org/conferences/?conf=promisess2010</a>.
+<h2> To submit data</h2>
+<p>
+If the data is small (<10 meg), email it to mail@promisedata.org
+<p>
+If the data is large (>10 meg), place it on a public web site/ftp site and email that url to mail@promisedata.org
+<p>
+
+In either case, the email should have the title "[DATA]: your paper title"
+			
+
+<h2>References:</h2>
+<ul>
+<li>
+Budgen, D., Kitchenham, B. A., Charters, S. M., Turner, M.,
+Brereton, P., and Linkman, S. G. 2008. Presenting software engineering
+results using structured abstracts: a randomised experiment.
+Empirical Softw. Engg. 13, 4 (Aug. 2008), 435-468.
+DOI= http://dx.doi.org/10.1007/s10664-008-9075-7
+<ul>
+
+
+<!--#include virtual="inc/tail.html"-->

@@ -1,0 +1,89 @@
+<!--#include virtual="inc/head1.html"-->
+<title>Keynotes | PROMISE 2010 </title>
+<!--#include virtual="inc/head2.html"-->
+
+
+<h2>Keynote Speakers</h2>
+
+<a name="harman"><h3>Mark Harman</h3></a>
+
+<img src="img/mark.jpg" >
+<p>
+<b>How SBSE can Support Construction and Analysis of Predictive Models</b>
+<ul>
+<li>
+Search Based Software Engineering (SBSE) is an approach to software
+engineering in which search based optimization algorithms are used to
+identify optimal or near optimal solutions and to yield insight.
+<li>
+SBSE
+techniques can cater for multiple, possibly completing objectives and/ or
+constraints and applications where the potential solution space is large
+and complex.
+<li>
+This talk will provide a brief overview of SBSE, explaining
+some of the ways in which it has already been applied to construction of
+predictive models. There is a mutually beneficial relationship between
+predictive models and SBSE. The talk will outline some novel ways in which
+SBSE might be used for predictive model construction and how predictive
+models also have role to play in improving SBSE.
+</ul>
+<p>About the speaker:
+<ul>
+<li>
+Mark Harman is professor of Software Engineering in the Department
+of Computer Science at King's College London. He is widely known for
+work on source code analysis and testing and he was instrumental in the
+founding of the field of Search Based Software Engineering, a field that
+currently has active researchers in 24 countries and for which he has
+given 14 keynote invited talks. 
+<li>
+Professor Harman is the author of over
+150 refereed publications, on the editorial board of 7 international
+journals and has served on 90 programme committees. 
+<li>
+He is director of
+the CREST centre at King's College London. More details are available
+from the CREST website (<a href="http://crest.dcs.kcl.ac.uk/">http://crest.dcs.kcl.ac.uk/</a>).
+</ul>
+
+<hr>
+<a name="bishop"><h3>Judith Bishop</h3></a>
+
+<img width=90 src="img/judith.jpg" >
+<p>
+<b>
+Overcoming scale and privacy issues in industrial software studies and repositories</b>
+ <ul>
+ <li>
+ Replicating a software engineering study to predict effort and defects
+ relies on having public data, preferably in a public repository. Large
+ companies like Microsoft certainly conduct such studies to drive their
+ business, but they cannot easily release their data about bug fixes
+ and customer usage. However, increasingly, the methods and tools that
+ are used to analyze the data are coming from the research community,
+ and therefore can be opened up to wider scrutiny. 
+ <li>This talk will look
+ at two new tools out of Microsoft, and aspects of the repositories they
+ use. The first is <em>Crane</em>, which uses complex modeling to predict which
+ changes in large code bases will be more likely to produce faults. The
+ second is <em>Web N-Gram</em> which provides cloud based services to drive
+ discovery and innovation based on all the data currently indexed by
+ Bing in the US. Issues of scale and privacy are discussed, as well as
+ how these tools can be integrated into existing research efforts.
+</ul>
+<p>About the speaker:
+
+<ul> <li> Judith Bishop is Director of Computer Science in External
+Research at Microsoft Research, based in Redmond, USA. Her role is to
+create strong links between Microsoft's research groups and universities
+globally, through encouraging projects, supporting conferences and
+engaging directly in research.  <li> After doing her undergraduate degrees
+at Rhodes and Natal in South Africa, Dr. Bishop received her PhD from
+the University of Southampton in 1977 on the relationship of languages
+to computer architecture. She has over 90 publications including 15
+books on programming languages that are available in six languages and
+read worldwide. Judith serves frequently on international editorial,
+programme and award committees, and has received numerous awards and
+distinctions, in particular the IFIP Outstanding Service Award in 2009.
+</ul> <!--#include virtual="inc/tail.html"-->

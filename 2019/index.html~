@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>PROMISE'19</title>
+	<meta name="description" content="PROMISE is an annual forum for researchers and practitioners to present, discuss and exchange ideas, results, expertise and experiences in construction and/or application of predictive models and data analytics in software engineering. PROMISE encourages researchers to publicly share their data in order to provide interdisciplinary research between the software engineering and data mining communities, and seek for verifiable and repeatable experiments that are useful in practice.">
+	<meta name="author" content="drg" >
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/contenido.css" rel="stylesheet">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+</head>
+<body>
+<div class="topbar">
+	<div class="topbar-inner">
+		<div class="container">
+			<a class="brand" href="#"><abbr title="The 15th International Conference on Predictive Models and Data Analytics in Software Engineering">PROMISE'19</abbr></a>
+			<ul class="nav">
+				<li><a href="http://eseiw2019.com/esem/" target="_blank">in conjunction with <abbr title="International Symposium on Empirical Software Engineering and Measurement">ESEM</abbr> 2019</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="content">
+	<a href="http://promisedata.org/2019/"><img src="images/promise19.png" width="100%"></a>
+		<div class="hero-unit portada">
+			<div style="float: right; width: 235px;">
+				<div class="calendar">
+					<span class="month">Abstract Deadline</span>
+					<span class="day">May 31st</span>
+				</div>
+				<p style="padding: 0 0 0 95px;"><a href="http://promisedata.org/2019/flyer-PROMISE'19.pdf" class="btn primary large" target="_blank"><abbr title="Call For Papers">CFP</abbr></a></p>
+
+			</div>
+				
+				<center><h2><a href="http://promisedata.org/2019/flyer-PROMISE'19.pdf" target="_blank"> PROMISE'19 CALL FOR PAPERS </a></h2>
+				<p><a href="https://www.facebook.com/promiseConf" target="_blank">https://www.facebook.com/promiseConf</a></p>
+				<p><a href="https://twitter.com/promise_conf" target="_blank">https://twitter.com/promise_conf</a></p></center>
+		</div>
+	
+
+
+									
+				<p>PROMISE is an annual forum for researchers and practitioners to present, discuss and exchange ideas, results, expertise and experiences in construction and/or application of predictive models and data analytics in software engineering. PROMISE encourages researchers to publicly share their data in order to provide interdisciplinary research between the software engineering and data mining communities, and seek for verifiable and repeatable experiments that are useful in practice.</p>
+
+				<p><b>Please see <a href="http://eseiw2019.com/" target="_blank">ESEIW website</a> for venue, registration, and visa information</b></p>
+				
+<!--
+<h2> Program </h2>
+			<dl class="timetable">
+				<dt>[08.00-08.30] Registration</dt>
+
+				<dt>[08.30-10.00] Opening and Keynote</dt>
+					<dd>Welcome from Chairs</dd>
+  					<dd>Keynote: Prof. Tracy Hall, Lancaster University: <b>"Getting Defect Prediction into Industrial Practice: Just a Dream?"</b></dd>
+
+  				<dt>[10.00-10.30] Coffee Break</dt>
+
+				<dt>[10.30-12.00] Session I: Defects</dt>
+					<dd>Rudolf Ferenc, Zoltán Tóth, Gergely Ladányi, Istvan Siket and Tibor Gyimóthy. <b>A Public Unified Bug Dataset for Java</b></dd>
+					<dd>Tapajit Dey and Audris Mockus. <b>Modeling Relationship between Post-Release Faults and Usage in Mobile Software</b></dd>
+					<dd>Sousuke Amasaki. <b>Cross-Version Defect Prediction using Cross-Project Defect Prediction Approaches:Does it work?</b></dd>
+					<dd>Giuseppe Destefanis, Saed Qaderi, David Bowes, Jean Petrić and Marco Ortu. <b>A Longitudinal Study of Anti Micro Patterns in 113 versions of Tomcat</b></dd>
+				<dt>[12.00-13.30] Lunch Break</dt>
+
+				<dt>[13.30-15.00] Session II: Testing and Decision Making</dt>
+					<dd>Jean Petric, Tracy Hall and David Bowes. <b>How Effectively Is Defective Code Actually Tested? An Analysis of JUnit Tests in Seven Open Source Systems</b></dd>
+					<dd>Francis Palma, Tamer Abdou, John Maidens, Ayse Bener and Stella Liu. <b>An Improvement to Test Case Failure Prediction in the Context of Test Case Prioritization</b></dd>
+					<dd>Fernando López de la Mora and Sarah Nadi. <b>An Empirical Study of Using Metric-based Comparisons to Select Libraries</b></dd>
+					<dd>Martí Manzano, Emilia Mendes, Cristina Gómez, Claudia P. Ayala and Xavier Franch. <b>Using Bayesian Networks to estimate Strategic Indicators in the context of Rapid Software Development</b></dd>
+				<dt>[15.00-15.30] Coffee Break</dt>
+
+				<dt>[15.30-16.40] Session III: Communication and Popularity</dt>
+					<dd>Marco Ortu, Tracy Hall, David Bowes, Giuseppe Destefanis, Michele Marchesi and Roberto Tonelli. <b>Mining Communication Patterns in Software Development: A GitHub Analysis</b></dd>
+					<dd>Mohammad Alahmadi, Jonathan Hassel, Biswas Parajuli, Sonia Haiduc and Piyush Kumar. <b>Accurately Predicting the Location of Code Fragments in Programming Video Tutorials Using Deep Learning</b></dd>
+					<dd>Tapajit Dey and Audris Mockus. <b>Are Software Dependency Supply Chain Metrics Useful in Predicting Change of Popularity of NPM Packages?</b></dd>
+				<dt>[16.40-17.00] Closing</dt>
+
+			</dl>
+		<hr>	
+-->
+<hr>
+<h2><span>Keynote by <a href="https://www.microsoft.com/en-us/research/people/cbird/">Dr. Christian Bird</a>, Microsoft Research, USA </span></h2>
+<!--
+			<p>	
+				<table>
+				<tr valign="center"><td> <img height="300" width="200" src="./images/hall.jpg"></td>
+<td><p><b>Abstract</b>: Despite many researchers over many years developing increasingly sophisticated defect prediction models there is little evidence that these models are being used by industry. This talk explores the possible reasons for this lack of industrial impact. The challenges of practitioners’ building reliable defect prediction models are discussed, as well as the commercial overhead of training models on high quality data. The talk goes on to consider whether the kinds of problems addressed by defect prediction researchers are high on industry’s agenda. Experiences with industrial collaborators are presented and ways forward for defect prediction are explored.
+</p>
+-->
+
+<p>Christian Bird is a researcher
+in the Empirical Software Engineering group at
+Microsoft Research. He focuses on using qualitative and quantitative methods to both understand
+and help software teams. Dr. Bird received his
+Bachelor’s degree from Brigham Young University
+and his Ph.D. from the University of California,
+Davis. </p></td></tr></table></p>
+
+
+		
+<hr>
+		<div class="row">
+
+<!--
+			<div class="span9">
+				<h2>Accepted Papers</h2>
+				<ul>
+			<li>Mohammad Alahmadi, Jonathan Hassel, Biswas Parajuli, Sonia Haiduc and Piyush Kumar. Accurately Predicting the Location of Code Fragments in Programming Video Tutorials Using Deep Learning</li>
+			<li>Rudolf Ferenc, Zoltán Tóth, Gergely Ladányi, Istvan Siket and Tibor Gyimóthy. A Public Unified Bug Dataset for Java</li>
+			<li>Fernando López de la Mora and Sarah Nadi. An Empirical Study of Using Metric-based Comparisons to Select Libraries</li>
+			<li>Sousuke Amasaki. Cross-Version Defect Prediction using Cross-Project Defect Prediction Approaches:Does it work?</li>
+			<li>Jean Petric, Tracy Hall and David Bowes. How Effectively Is Defective Code Actually Tested? An Analysis of JUnit Tests in Seven Open Source Systems</li>
+			<li>Martí Manzano, Emilia Mendes, Cristina Gómez, Claudia P. Ayala and Xavier Franch. Using Bayesian Networks to estimate Strategic Indicators in the context of Rapid Software Development</li>
+			<li>Tapajit Dey and Audris Mockus. Modeling Relationship between Post-Release Faults and Usage in Mobile Software</li>
+			<li>Tapajit Dey and Audris Mockus. Are Software Dependency Supply Chain Metrics Useful in Predicting Change of Popularity of NPM Packages?</li>
+			<li>Marco Ortu, Tracy Hall, David Bowes, Giuseppe Destefanis, Michele Marchesi and Roberto Tonelli. Mining Communication Patterns in Software Development: A GitHub Analysis</li>
+			<li>Francis Palma, Tamer Abdou, John Maidens, Ayse Bener and Stella Liu. An Improvement to Test Case Failure Prediction in the Context of Test Case Prioritization</li>
+			<li>Giuseppe Destefanis, Saed Qaderi, David Bowes, Jean Petrić and Marco Ortu. A Longitudinal Study of Anti Micro Patterns in 113 versions of Tomcat</li>
+			</ul>
+			</div>
+
+-->
+			<div class="span9">
+				<h2>Topics of Interest</h2>
+				<p>Application oriented: 
+				<ul>
+				<li>prediction of cost, effort, quality, defects, business value; </li>
+				<li>quantification and prediction of other intermediate or final properties of interest in software development regarding people, process or product aspects;</li>
+				<li>using predictive models and data analytics in different settings, e.g. lean/agile, waterfall, distributed, community-based software development;</li>
+				<li>dealing with changing environments in software engineering tasks;</li> 
+				<li>dealing with multiple-objectives in software engineering tasks;</li> 
+				<li>using predictive models and software data analytics in policy and decision-making.</li>
+				</ul>
+				<p>Theory oriented:
+				<ul> 
+				<li>model construction, evaluation, sharing and reusability;</li>
+				<li>interdisciplinary and novel approaches to predictive modelling and data analytics that contribute to the theoretical body of knowledge in software engineering;</li>
+				<li>verifying/refuting/challenging previous theory and results;</li>
+				<li>combinations of predictive models and search-based software engineering;</li>
+				<li>the effectiveness of human experts vs. automated models in predictions.</li>
+				</ul>
+				<p>Data oriented: 
+				<ul>
+				<li>data quality, sharing, and privacy;</li>
+				<li>curated data sets made available for the community to use;</li>
+				<li>ethical issues related to data collection and sharing;</li>
+				<li>metrics;</li>
+				<li>tools and frameworks to support researchers and practitioners to collect data and construct models to share/repeat experiments and results.</li>
+				</ul>
+				<p>Validity oriented: 
+				<ul>
+				<li>replication and repeatability of previous work using predictive modelling and data analytics in software engineering;</li> 
+				<li>assessment of measurement metrics for reporting the performance of predictive models;</li> 
+				<li>evaluation of predictive models with industrial collaborators.</li>
+				</ul>
+				
+			</div>
+
+
+			<div class="span1">
+				<p>&nbsp;</p>
+			</div>
+
+
+			<div class="span6">
+				<h2>Important Dates</h2>
+				<ul>
+					<li>Abstracts due: May 31st, 2019</li>
+					<li>Submissions due: June 7th, 2019</li>
+					<li>Author notification: July 7th, 2019</li>
+					<li>Camera ready: July 21st, 2019</li>
+					<li>Conference Date: September 18th, 2019</li>
+				</ul>
+			</div>
+		
+			<div class="span1">
+				<p>&nbsp;</p>
+			</div>
+			
+			<div class="span6">
+				<h2>Journal Special Section</h2>
+				<ul>
+					<li>Following the conference, the authors of the best papers will be invited to submit extended versions of their papers for consideration in a special section of the <a href="https://www.journals.elsevier.com/information-and-software-technology" >Information and Software Technology </a> journal by Elsevier.</li> 
+					<center><a href="https://www.journals.elsevier.com/information-and-software-technology" ><img src="data:image/png;base64,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">	</a> </center>
+				</ul>
+			</div>	
+<!--			
+			<div class="span1">
+				<p>&nbsp;</p>
+			</div>
+			<div class="span6">
+				<h2>Keynote</h2>
+				<ul>
+					<li>Prof. Tracy Hall, Lancaster University</li> 
+				</ul>
+			</div>
+		</div>
+		<hr>
+		-->		
+
+
+<div class="row"> 
+  <div class="span9">
+    <h2>Kinds of Papers</h2>
+    <p>We invite theory and empirical studies on the topics of interest (e.g. case studies, meta-analysis, replications, experiments, simulations, surveys etc.), as well as industrial experience reports detailing the application of predictive modelling and data analytics in industrial settings. Both positive and negative results are welcome, though negative results should still be based on rigorous research and provide details on lessons learned. It is encouraged, but not mandatory, that conference attendees contribute the data used in their analysis on-line. Submissions can be of the following kinds:</p>
+				
+				
+				<ul>
+				<li>Full papers (oral presentation): papers with novel and complete results.</li>
+				<li>Short papers (oral presentation): papers to disseminate on-going work and preliminary results for early feedback, or vision papers about the future of predictive modelling and data analytics in software engineering</li>
+				</ul>
+
+				<b>Note about GitHub research:</b> Given that PROMISE papers heavily rely on software data, we would like to draw authors that leverage data scraped from GitHub of GitHub's Terms of Service, which require that “publications resulting from that research are open access”. Similar to other leading SE conferences, PROMISE supports and encourages Green Open Access, i.e., self-archiving. Authors can archive their papers on their personal home page, an institutional repository of their employer, or at an e-print server such as arXiv (preferred).
+  </div>
+  <div class="span1">
+    <p>&nbsp;</p>
+  </div>
+  			<div class="span6">
+
+				<h2>Submissions</h2>
+				PROMISE 2019 submissions must meet the following criteria:
+				<ul>
+					<li>be original work, not published or under review elsewhere while being considered;</li>
+					<li>conform to the <a href="https://www.acm.org/publications/proceedings-template" target="_blank">ACM SIG proceedings template; </a></li>
+					<li>not exceed 10 (4) pages for full (short) papers including references;</li>
+					<li>be written in English;</li>
+					<li>be prepared for <b>double blind</b> review, except for data papers, where double blind is optional (see instructions below);</li>
+					<li>be submitted via <a href="https://easychair.org/conferences/?conf=promise19" target="_blank">EasyChair </a>(please choose the paper category appropriately). </li>
+					
+
+				</ul>
+				Submissions will be peer reviewed by at least three experts from the international program committee. Submissions will be evaluated on the basis of their originality, importance of contribution, soundness, evaluation, quality, and consistency of presentation, and appropriate comparison to related work. Accepted papers will be published in the ACM Digital Library within its International Conference Proceedings Series and will be available electronically via ACM Digital Library. Each accepted paper needs to have one registration at the full conference rate and be presented in person at the conference.
+			</div>
+		</div>
+
+<br><hr>
+				<h2>Double-Blind Review Process</h2>
+				<p>PROMISE 2019 will employ a double-blind review process, except for data papers, where double blind is optional (see below). This means that the submissions should by no means disclose the identity of the authors. The authors must make every effort to honor the double-blind review process. In particular, the authors’ names must be omitted from the submission and references to their prior work should be in the third person.</p>
+
+<p>If the paper is about a data set or data collection tool, double-blind review is not obligatory. However, authors may choose to opt in double blind reviews by making their data repository or data collection tool anonymous and omitting their paper authorship information if they wish to. If in doubt regarding the obligatoriness of double blind review for your specific case, please contact the PC chairs.</p><br>
+
+				<p><b>Why double blind?</b></p>
+
+
+				<p>Double blind has now taken off, mostly driven by the considerable number of requests from the software engineering community. We have also now decided to respond to this call. We are aware that there are certain challenges with regard to the double blind review process as detailed by Shepperd [1]. However, we hope that the benefits, some of which are discussed by Le Goues [2], will overcome those challenges.</p>
+
+
+[1] <a href="https://empiricalsoftwareengineering.wordpress.com/2017/11/05/why-i-disagree-with-double-blind-reviewing/">https://empiricalsoftwareengineering.wordpress.com/2017/11/05/why-i-disagree-with-double-blind-reviewing/</a><br>
+
+[2] <a href="https://www.cs.cmu.edu/~clegoues/double-blind.html">https://www.cs.cmu.edu/~clegoues/double-blind.html</a>
+				
+
+		
+	
+		
+		<hr>
+
+
+</div>
+
+
+  <div class="row"><br>
+			<div class="span10">
+				<h2>Programme Committee</h2>
+
+<ul>
+<li>David Bowes, Lancaster University</li>
+<li>Ricardo Britto, Blekinge Institute of Technology</li>
+<li>Hoa Khanh Dam, University of Wollongong</li>
+<li>Giuseppe Destefanis, Brunel University London</li>
+<li>Carmine Gravino, University of Salerno</li>
+<li>Tracy Hall, Lancaster University</li>
+<li>Rachel Harrison, Oxford Brooks University</li>
+<li>Yasutaka Kamei, Kyushu University</li>
+<li>Lech Madeyski, Wroclaw University of Science and Technology</li>
+<li>Shane  McIntosh, McGill University</li>
+<li>Tim Menzies, North Carolina State University</li>
+<li>Jaechang Nam, Handong Global University</li>
+<li>Maleknaz Nayebi, Polytechnique Montreal</li>
+<li>Fabio Polomba, University of Zurich</li>
+<li>Daniel Rodriguez, University of Alcalá</li>
+<li>Martin Shepperd, Brunel University London</li>
+<li>Emad Shihab, Concordia University</li>
+<li>Yuan Tian, Singapore Management University</li>
+<li>Ayse Tosun, Istanbul Technical University</li>
+<li>Burak Turhan, Monash University</li>
+<li>Hironori Washizaki, Waseda University</li>
+<li>Xin Xia, Monash University</li>
+<li>Yuming Zhou, Nanjing University</li>
+</ul>
+
+
+			</div>
+			<div class="span6">
+				<h2>Steering Committee</h2>
+				<ul>
+					<li><a href="" target="_blank">David Bowes</a>, University of Central Lancashire</li>
+                                        <li><a href="http://shanemcintosh.org/" target="_blank">Shane McIntosh</a>, McGill University</li>
+					<li><a href="http://www.cs.bham.ac.uk/~minkull/" target="_blank">Leandro Minku</a>, University of Birmingham</li>		
+   					<li><a href="http://www.scs.ryerson.ca/~avm/" target="_blank">Andriy Miranskyy</a>, Ryerson University</li>
+					<li><a href="http://das.encs.concordia.ca/members/emad-shihab/" target="_blank">Emad Shihab</a>, Concordia University</li>
+					<li><a href="https://web.itu.edu.tr/~tosunay/" target="_blank">Ayse Tosun</a>, Istanbul Technical University</li>
+
+				</ul>
+				<h2>General Chair</h2>
+				<ul>
+					<li><a href="http://www.cs.bham.ac.uk/~minkull/" target="_blank">Leandro Minku</a>, University of Birmingham</li>
+				</ul>				
+				<h2>PC Co-Chairs</h2>
+				<ul>
+					<li><a href="http://www.khomh.net/" target="_blank">Foutse Khomh</a>, Ecole Polytechnique de Montréal</li>
+					<li><a href="https://www.lancaster.ac.uk/scc/about-us/people/jean-petric" target="_blank">Jean Petric</a>, Lancaster University</li>
+					
+				</ul>
+				<h2>Publication Chair</h2>
+				<ul>
+					<li><a href="http://promisedata.org/2019/" target="_blank">David Bowes</a>, University of Central Lancashire</li>
+				</ul>
+				<h2>Publicity Chair</h2>
+				<ul>
+					<li><a href="https://www.brunel.ac.uk/people/giuseppe-destefanis" target="_blank">Giuseppe Destefanis</a>, Brunel University London</li>
+				</ul>
+
+<!--				<h2>Local Organization Chair</h2>
+				<ul>
+   					<li><a href="https://turhanb.net" target="_blank">Burak Turhan</a>, Monash University</li>
+				</ul>
+				</ul>
+-->				
+				
+			</div>
+	</div>
+</div>
+</body>
+</html>
