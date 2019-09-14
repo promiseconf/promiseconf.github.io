@@ -22,6 +22,8 @@ body {
 	cbackground: url(dark-main_background2.jpg);
 	
 }
+
+h3 { color: firebrick; font-weight: bold; text-transform: uppercase; }
  
 #outer {	width: 900px; 
 		margin: 0 auto;
@@ -253,6 +255,7 @@ time.icon:hover, time.icon:focus
       background:url("tabright4.gif") no-repeat right top;
       padding:5px 15px 4px 6px;
       color:#6B78A9;
+      color:#000;
       }
     /* Commented Backslash Hack hides rule from IE5-Mac \*/
     #tabs4 a span {float:none;}
