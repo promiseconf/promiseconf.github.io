@@ -53,7 +53,7 @@ body {
 	Xbackground:url("leftcolor_bg.png") repeat-y top left;
 }
 #menu { text-align: center; background-color: white; height: 37px;  xfont-size: small;
-	border-bottom: 1px black dotted; padding-left: 140px;
+	border-bottom: 1px black dotted; padding-left: 50px;
 }
 #header {
     height: 280px;
