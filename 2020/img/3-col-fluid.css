@@ -55,8 +55,8 @@ h3 { margin-bottom: 0px; padding-bottom: 0px;
 	width:100%;
 	Xbackground:url("leftcolor_bg.png") repeat-y top left;
 }
-#menu { text-align: center; background-color: white; height: 37px;  xfont-size: small;
-	border-bottom: 1px black dotted; xpadding-left: 12px;
+#menu { text-align: center; background-color: white; height: 37px;  font-size: x-small;
+	border-bottom: 1px black dotted; 
 }
 #header {
     height: 280px;
@@ -239,7 +239,7 @@ time.icon:hover, time.icon:focus
       line-height:normal;
       }
     #tabs4 ul {
-    padding:10px 10px 0 50px;
+    padding:10px 10px 0 60px;
     margin:0px;
     list-style:none;
       }
